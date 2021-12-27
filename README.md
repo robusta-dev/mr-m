@@ -10,6 +10,7 @@ Features:
 4. Supports cross-account roles
 5. Supports multi-factor authentication
 
+**If you use Kubernetes, also check out [Robusta](https://github.com/robusta-dev/robusta/)**
 
 # Usage
 Installation:
